@@ -1,4 +1,5 @@
-### Hello, I'm Zidaan
-I'm not even an early bird, I'm a sleepless one
+### Hello, I'm Zidaan or Zee
 
-**Full-Stack Web Development, experience in Education Technology and Content-driven Applications**
+I'm not even an early bird, I'm a sleepless one.
+
+**Full-stack web development, AI chatbots for domain-specific applications and most things geospatial data**
