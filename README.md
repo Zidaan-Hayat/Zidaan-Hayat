@@ -1,5 +1,5 @@
 ### Hello, I'm Zidaan, you can also call me Zee. I work on LLMs for dynamic knowledge base systems.
-<br>
+<sup>You can also find me on [Gitlab](https://gitlab.com/zeehyt)</sup>
 
 **In my student life,** I study at the [OTH Regensburg](https://www.oth-regensburg.de/), a student city in Bavaria 🇩🇪 and should graduate in 2027.
 
